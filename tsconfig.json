@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./",
+    "allowUnreachableCode": false,
+    "importHelpers": true,
+    "module": "commonjs",
+    "noFallthroughCasesInSwitch": true,
+    "noUnusedLocals": true,
+    "pretty": true,
+    "strict": true,
+    "target": "es2020",
+    "outDir": "./dist",
+    "esModuleInterop": true
+  },
+  "rootDir": "./",
+  "exclude": ["node_modules", "capacitor.config.ts", "electron"]
+}

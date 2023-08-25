@@ -1,0 +1,22 @@
+{
+  "name": "ura-va",
+  "version": "1.0.0",
+  "description": "a",
+  "scripts": {
+    "build": "tsc && vite build",
+    "serve": "vite --open"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@capacitor/android": "^4.8.0",
+    "@capacitor/core": "^4.8.0"
+  },
+  "devDependencies": {
+    "@capacitor-community/electron": "latest",
+    "@capacitor/assets": "^2.0.4",
+    "@ura/capacitor-cli": "^4.8.3",
+    "typescript": "^5.0.4",
+    "vite": "^4.3.2"
+  }
+}
